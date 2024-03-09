@@ -15,4 +15,3 @@ while a < 1000:
 print("\n")
 
 print("Here we are")
-print("Here we are")
