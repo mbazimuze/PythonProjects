@@ -12,5 +12,3 @@ elif x == 1:
     print('Single')
 else:
     print('More')
-
-print("Here we are")
