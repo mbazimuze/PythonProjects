@@ -14,4 +14,3 @@ else:
     print('More')
 
 print("Here we are")
-print("Here we are")
