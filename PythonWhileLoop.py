@@ -12,8 +12,6 @@ while a < 1000:
      print(a, end=',')
      a, b = b, a + b
 
-
-
 print("\n")
 print("Here we are")
 print("\n")
@@ -21,4 +19,4 @@ print("Here we are")
 print("\n")
 print("Here we are")
 print("\n")
-print("Here we are")
+print("Here we are. Welcome")
